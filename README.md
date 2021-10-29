@@ -33,11 +33,14 @@ I love collaborating with the community, solving small doubts from other develop
   <img alt="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img alt="Android" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   <img alt="Kotlin" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="Jetpack Compose" height="25" src="https://user-images.githubusercontent.com/61483018/139510569-0c825ee0-6753-48de-b53a-2dd39359aab2.png">
   <img alt="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img alt="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img alt="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Jetpack Compose" height="25" src="https://user-images.githubusercontent.com/61483018/139510569-0c825ee0-6753-48de-b53a-2dd39359aab2.png">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
