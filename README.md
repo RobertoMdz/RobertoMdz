@@ -28,13 +28,17 @@ I love collaborating with the community, solving small doubts from other develop
 
 **Languages and tools:**  
 
-<img height="20" src="https://user-images.githubusercontent.com/61483018/139509830-38e75522-65df-45cf-8a47-fbff63e82b90.png">
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<p float="left">
+  <img height="20" src="https://user-images.githubusercontent.com/61483018/139509830-38e75522-65df-45cf-8a47-fbff63e82b90.png">
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>
+
+
 
 
 
