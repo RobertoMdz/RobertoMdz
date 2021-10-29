@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Roberto's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Roberto's Discord" width="22px" src="https://user-images.githubusercontent.com/61483018/139495710-93812f89-cb8e-48a3-8050-a3a73c8e186d.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -16,3 +16,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=/RobertoMdz)
 
 <br />
+![discord]()
