@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/786300662690218035">
+<a href="https://discord.com/users/786300662690218035">
   <img align="left" alt="Roberto's Discord" width="22px" src="https://user-images.githubusercontent.com/61483018/139495710-93812f89-cb8e-48a3-8050-a3a73c8e186d.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
@@ -16,4 +16,3 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=/RobertoMdz)
 
 <br />
-![discord]()
