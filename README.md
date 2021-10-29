@@ -17,3 +17,24 @@
 
 <br />
 
+Hi, i'm [Roberto Cruz](https://rober tomdz.github.io), a passionate self-taught mobile developer working since 2018 working on tech companies and personal projects. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I love collaborating with the community, solving small doubts from other developers whenever I can.
+
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/61483018/139500277-bbb4f3f8-3a32-4e29-af91-56d7c83ef02f.gif?raw=true" width="400" height="220" />
+  
+- 💼 any freelance work? do reach, [email](mailto:roberto.cr.mendoza@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**Languages and tools:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+
+
+
