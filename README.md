@@ -40,6 +40,9 @@ I love collaborating with the community, solving small doubts from other develop
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
