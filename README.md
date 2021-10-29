@@ -3,8 +3,8 @@
 <a href="https://discord.com/users/786300662690218035">
   <img align="left" alt="Roberto's Discord" width="22px" src="https://user-images.githubusercontent.com/61483018/139495710-93812f89-cb8e-48a3-8050-a3a73c8e186d.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/Roberth_Mdz">
+  <img align="left" alt="Roberth Mdz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
