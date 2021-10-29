@@ -39,6 +39,7 @@ I love collaborating with the community, solving small doubts from other develop
   <img alt="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </p>
 
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
