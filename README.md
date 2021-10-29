@@ -29,13 +29,14 @@ I love collaborating with the community, solving small doubts from other develop
 **Languages and tools:**  
 
 <p float="left">
-  <img height="20" src="https://user-images.githubusercontent.com/61483018/139509830-38e75522-65df-45cf-8a47-fbff63e82b90.png">
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Flutter" height="25" src="https://user-images.githubusercontent.com/61483018/139509830-38e75522-65df-45cf-8a47-fbff63e82b90.png">
+  <img alt="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img alt="Android" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+  <img alt="Kotlin" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alt="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img alt="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Jetpack Compose" height="25" src="https://user-images.githubusercontent.com/61483018/139510569-0c825ee0-6753-48de-b53a-2dd39359aab2.png">
 </p>
 
 
