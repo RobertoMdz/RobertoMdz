@@ -46,6 +46,11 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+
 
 
 
