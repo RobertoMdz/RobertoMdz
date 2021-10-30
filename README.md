@@ -46,7 +46,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
 🌸  Completed 0 tasks today           
