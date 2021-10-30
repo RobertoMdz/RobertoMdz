@@ -56,7 +56,7 @@ No Activity tracked this Week
 
 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertoMdz&show_icons=true&theme=gotham" alt="RobertoMdz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertoMdz&count_private=true&show_icons=true&theme=gotham" alt="RobertoMdz" />
 
 
 
