@@ -54,7 +54,7 @@ No Activity tracked this Week
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-📈 My github stats
+📈 **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertoMdz&count_private=true&show_icons=true&theme=gotham" alt="RobertoMdz" />
 
