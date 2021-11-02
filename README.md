@@ -24,7 +24,7 @@ I love collaborating with the community, solving small doubts from other develop
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/61483018/139500277-bbb4f3f8-3a32-4e29-af91-56d7c83ef02f.gif?raw=true" width="400" height="220" />
   
 - 💼 any freelance work? do reach, [email](mailto:roberto.cr.mendoza@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
 **Languages and tools:**  
 
@@ -39,7 +39,7 @@ I love collaborating with the community, solving small doubts from other develop
   <img alt="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </p>
 
-📊 **This week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 Dart     5 mins          ████████████████▓░░░░░░░░   67.32 % 
