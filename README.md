@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, i'm [Roberto Cruz](https://robertomdz.github.io), a passionate self-taught mobile developer working since 2018 working on tech companies and personal projects. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Roberto Cruz](https://robertomdz.github.io), a passionate self-taught mobile developer working since 2018 on tech companies and personal projects. My passion for software lies with dreaming up ideas and making them come true with elegant apps. I take great care in the experience, architecture, and code quality of the things I build.
 
 I love collaborating with the community, solving small doubts from other developers whenever I can.
 
