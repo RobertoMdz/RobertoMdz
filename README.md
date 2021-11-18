@@ -50,14 +50,6 @@ Other        22 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-🏆  200 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
 📈 **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertoMdz&count_private=true&show_icons=true&theme=gotham" alt="RobertoMdz" />
