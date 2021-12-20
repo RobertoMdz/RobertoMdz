@@ -42,7 +42,7 @@ I love collaborating with the community, solving small doubts from other develop
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Dart   12 mins         ███████████████████████▓░   94.83 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
