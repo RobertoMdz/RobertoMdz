@@ -23,11 +23,11 @@ I love collaborating with the community, solving small doubts from other develop
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/61483018/139500277-bbb4f3f8-3a32-4e29-af91-56d7c83ef02f.gif?raw=true" width="400" height="220" />
   
-- 💼 any freelance work? do reach, [email](mailto:roberto.cr.mendoza@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:roberto.cr.mendoza@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
 **Active jobs:**
-- 💼 Working on an mobile app project hosted in bitbucket since Nov 2020 - Actually
+- 💼 Working on an mobile app project hosted in bitbucket since Nov 2021 - Actually
 
 
 **Languages and tools:**  
