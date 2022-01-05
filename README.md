@@ -26,7 +26,7 @@ I love collaborating with the community, solving small doubts from other develop
 - 💼 any freelance work? do reach, [email](mailto:roberto.cr.mendoza@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
-**Active collaborations:**
+**Active jobs:**
 - 💼 Working on an mobile app project hosted in bitbucket since Nov 2020 - Actually
 
 
