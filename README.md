@@ -27,7 +27,7 @@ I love collaborating with the community, solving small doubts from other develop
 - 💬 Ask me about anything, I am happy to help;
 
 **Active jobs:**
-- 💼 Working on an mobile app project hosted in bitbucket since Oct 2021 - Actually
+- 💼 Working on a mobile app project hosted in bitbucket since Oct 2021 - Actually
 
 
 **Languages and tools:**  
