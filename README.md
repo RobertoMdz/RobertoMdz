@@ -46,6 +46,8 @@ I love collaborating with the community, solving small doubts from other develop
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
+Total: 8 hrs 7 mins
+
 Dart     7 hrs 17 mins   █████████████████████░░░░   84.42 % 
 Other    30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 YAML     28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
