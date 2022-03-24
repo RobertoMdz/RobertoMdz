@@ -47,8 +47,8 @@ I love collaborating with the community, solving small doubts from other develop
 <!--START_SECTION:waka-->
 
 ```text
-Dart   5 hrs 16 mins   ████████████████████████▒   97.92 %
-Bash   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Dart   3 hrs 55 mins   ████████████████████████▓   98.26 %
+Bash   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
