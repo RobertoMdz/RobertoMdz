@@ -47,9 +47,9 @@ I love collaborating with the community, solving small doubts from other develop
 <!--START_SECTION:waka-->
 
 ```text
-Dart    24 hrs 12 mins  ████████████████████████▒   96.89 %
-YAML    42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Dart    27 hrs 2 mins   ████████████████████████▒   97.07 %
+YAML    44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Other   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
