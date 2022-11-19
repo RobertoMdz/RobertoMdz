@@ -47,7 +47,7 @@ I love collaborating with the community, solving small doubts from other develop
 <!--START_SECTION:waka-->
 
 ```text
-Other   24 mins         ████████████░░░░░░░░░░░░░   47.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
